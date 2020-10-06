@@ -1,7 +1,7 @@
-# Test Project  
+# test project  
 ![License APACHE 2.0](https://img.shields.io/badge/License-APACHE%202.0-blueviolet)  
 ## Description  
-This Projecet is just a test of the software
+this is a test of the readmegenerator
   
 ## Table of Contents  
 * [Installation](#installation)  
@@ -16,7 +16,7 @@ npm i
   
 ## Usage  
 How to use this project:  
-Currently just testing 
+to make a readme 
 
 ## License
 Licenses for this project is:    
@@ -26,5 +26,5 @@ APACHE 2.0
 no  
 
 ## Questions  
-If you have questions about the repo, open an issue or contact me directly at test@test.com. You can find more of my work at [tyshiagray](https://github.com/tyshiagray/)
+If you have questions about the repo, open an issue or contact me directly at tyshiagray@gmail.com. You can find more of my work at [tyshiagray](https://github.com/tyshiagray/)
 
